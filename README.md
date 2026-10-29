@@ -1,1 +1,3 @@
-# Student-management
+
+# Student Management
+This project manages student information using Python.
